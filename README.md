@@ -11,3 +11,4 @@ RandomPlayer: plays randomly each round.
 RockPlayer: plays rock only.
 ReflectPlayer: first round plays randomly, then in  other rounds plays a move that is never his last move.
 the game ends after 3 rounds and displays the winner.
+check it out!
